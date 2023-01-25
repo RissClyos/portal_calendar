@@ -2,8 +2,8 @@
  * Enter the WiFi network you want to connect to, for getting the current time and other information.
  * If for some reason your WiFi doesn't have a password, you can comment that out.
  */
-#define WIFI_NAME "your wifi name here"
-#define WIFI_PASS "your wifi password here"
+#define WIFI_NAME "Surveillance Van #594"
+#define WIFI_PASS "fr33loader"
 
 /**
  * Show the day name on the right side (next to the XX/XX day)
@@ -26,7 +26,7 @@
  * You can find a list of timezone names here:
  * https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
  */
-#define TIME_ZONE "America/Chicago"
+#define TIME_ZONE "Europe/London"
 
 /**
  * The full POSIX specification for your timezone. If TIME_ZONE is set, this will only serve as a backup to that.
